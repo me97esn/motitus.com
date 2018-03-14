@@ -1,0 +1,20 @@
+.main {
+   background-image: url("/images/game_character_colour-1.jpg");
+   position: absolute;
+  top: 0;
+  left: 0;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.download-link {
+  width: 20%;
+}
+
+.download-icon {
+  width: 100%;
+}
